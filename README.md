@@ -1,4 +1,6 @@
-# Hi, I'm Paul Leger <small>[https://pleger.cl](https://pleger.cl) </small>👋
+# Hi, I'm Paul Leger👋
+<small>[https://pleger.cl](https://pleger.cl) </small>
+
 
 **Associate Professor · Software Engineer Researcher · Lab Director**  
 Catholic University of the North — Coquimbo, Chile 🇨🇱
